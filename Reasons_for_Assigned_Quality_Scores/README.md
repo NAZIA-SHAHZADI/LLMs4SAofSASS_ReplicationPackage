@@ -1,4 +1,4 @@
-This document provides a detailed justification of the quality assessment scores assigned to the three primary studies (S1–S3) included in the systematic literature review reported in the paper “Exploring LLM‑Supported Architectural Reasoning for Context‑Aware and Self‑Adaptive Software Systems.”
+This document provides a detailed justification of the quality assessment scores assigned to the four primary studies (S1–S4) included in the systematic literature review reported in the paper “Exploring LLM‑Supported Architectural Reasoning for Context‑Aware and Self‑Adaptive Software Systems.”
 For each primary study, the document:
 1-Explains the rationale behind each quality score (Q1–Q6)
 2-Maps every score to explicit sections, pages, paragraphs, and figures in the original publication
